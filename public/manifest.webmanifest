@@ -1,0 +1,10 @@
+{
+  "name": "LogicLab Scientific Calculator",
+  "short_name": "LogicLab",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09111f",
+  "theme_color": "#09111f",
+  "description": "A polished scientific and Boolean logic calculator.",
+  "icons": []
+}
